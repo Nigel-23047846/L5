@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { FlatList, TouchableOpacity, Text, Image, Button, SectionList, StyleSheet, View } from 'react-native';
 
-
+// Sample Pokémon Data (You can expand this data)
 const pokemonData = [
     {
         element: 'Water',
